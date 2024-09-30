@@ -19,7 +19,7 @@ This Chrome extension automatically fills in an email input field on specified w
 1. **Clone or Download the Repository:**
    - Clone this repository using Git:
      ```bash
-     git clone https://github.com/dgavriloff/auto-email-filler.git
+     git clone https://github.com/dgavriloff/edstem-email-autofill
      ```
    - Or, download the ZIP file from the repository and extract it to a directory on your computer.
 
