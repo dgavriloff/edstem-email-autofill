@@ -1,12 +1,12 @@
 # Chrome Extension: Edstem Email Filler
 
 ## Description
-This Chrome extension automatically fills in an email input field on edstem's login routes using a saved email address from Chrome's storage. It simulates user typing to enhance user experience and bypasses the need for manual entry.
+This Chrome extension automatically fills in an email input field on edstem's login routes using a saved email address from Chrome's storage. It simulates user typing to look cool and make it work with the pages code.
 
 ## Features
 - Automatically retrieves a saved email from Chrome storage.
 - Fills the email input field with the retrieved email.
-- Simulates user typing to bypass submission restrictions.
+- Simulates user typing to avoid the form clearing on submission rerender..
 - Can be modified for use on other websites.
 
 ## Prerequisites
@@ -39,7 +39,7 @@ This Chrome extension automatically fills in an email input field on edstem's lo
    - Click on "Load unpacked" and select the directory containing your extension files.
 
 7. **Use the Extension:**
-   - Navigate to a webpage with an email input field where the extension is set to operate.
+   - Navigate to edstems login page
    - Wait for the extension to automatically fill in the email address.
 
 ## Usage
