@@ -15,6 +15,7 @@ window.onload = () => {
         setTimeout(() => { //give time for typing to finish
           if (continueButton) {
             continueButton.click();
+            return;
           } else {
             console.log("Form not found.");
           }
